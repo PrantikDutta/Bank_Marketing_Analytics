@@ -64,7 +64,7 @@ These findings represent historical associations, not proof of causation.
 
 The project includes a Python-generated dashboard summarising campaign performance across customer segments and marketing characteristics.
 
-![Bank Marketing Dashboard](dashboard/bank_marketing_dashboard.png)
+![Bank Marketing Dashboard](dashboard.png)
 
 ## Repository Structure
 
